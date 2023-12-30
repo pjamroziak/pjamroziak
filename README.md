@@ -6,7 +6,3 @@ Hobbies:
 - Making water cooling custom loops for PCs
 - Reverse engineering of serial communication devices
 - Playing video games and guitar
-
-### My stats!
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjamroziak&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
